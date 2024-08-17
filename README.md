@@ -7,8 +7,8 @@
 
 <p align=center>
   <strong><a href="https://www.dopalearn.com">Website</a></strong>
-  | <strong><a href="https://www.youtube.com/watch?v=7F6yH6R_H_U">Meet Dopalearn</a></strong>
-  | <strong><a href="https://youtube.com/shorts/WGY0082PQZo?feature=share">Speech Delay</a></strong>
+  | <strong><a href="https://www.youtube.com/watch?v=7F6yH6R_H_U">Got Kids?</a></strong>
+  | <strong><a href="https://youtube.com/shorts/WGY0082PQZo?feature=share">Speech Delayed?</a></strong>
   | <strong><a href="https://www.plasmid.network">Join Plasmid Network</a></strong>
   | <strong><a href="">Contact</a></strong>
 </p>
