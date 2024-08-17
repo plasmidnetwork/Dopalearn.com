@@ -34,7 +34,7 @@ Dopalearn® the world's first nano-learning platform offers a new method of lear
 A few videos you should watch:
 * Watch a [one minute explainer video](https://youtube.com/shorts/1gcMx_IDOZY) of Dopalearn®
 * A [3 year old child learning the alphabet](https://youtube.com/shorts/pKa4rbOnMPk) with Dopalearn®
-* A [15 year old boy with level 3 autism learning with](https://youtu.be/gBZUCWVDbAY) with Dopalearn®
+* A [15 year old boy with level 3 autism](https://youtu.be/gBZUCWVDbAY) learning English and Math with Dopalearn®
 
 Try it 100% free (zero ads):
 * [on Android](https://play.google.com/store/apps/details?id=com.littlebrainboosters.dopalearn)
