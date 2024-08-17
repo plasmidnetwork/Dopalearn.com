@@ -31,12 +31,14 @@
 
 Dopalearn® the world's first nano-learning platform offers a new method of learning for children by blending learning with entertainment. It’s a video platform that uses lessons and challenges in place of advertisements to teach foundational concepts. The training is done by periodically interrupting the video with nano-lessons in the form of popups. A built-in library allows the parent to find and assign lessons before handing the device over to the child. Lessons range from ABCs, numbers, vocabulary building, first words & sight words, to more advanced topics such as reading, writing, spelling, and math.
 
-To learn more:
+A few videos you should watch:
 * Watch a [one minute explainer video](https://youtube.com/shorts/1gcMx_IDOZY) of Dopalearn®
 * A [3 year old child learning the alphabet](https://youtube.com/shorts/pKa4rbOnMPk) with Dopalearn®
 * A [15 year old boy with level 3 autism learning with](https://youtu.be/gBZUCWVDbAY) with Dopalearn®
-* Free [Download on Android](https://play.google.com/store/apps/details?id=com.littlebrainboosters.dopalearn)
-* Free [Download on iOS](https://apps.apple.com/us/app/dopalearn/id1542507323)
+
+Try it 100% free (zero ads):
+* [on Android](https://play.google.com/store/apps/details?id=com.littlebrainboosters.dopalearn)
+* [on iOS](https://apps.apple.com/us/app/dopalearn/id1542507323)
 
 :sparkles: Features
 ---------------------------
