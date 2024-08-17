@@ -1,2 +1,3 @@
-![dopalearn_banner](https://github.com/user-attachments/assets/4eea2e5f-496a-4d75-85cb-813ae22d020d)
+<img width="1100" alt="meet_dopalearn" src="https://github.com/user-attachments/assets/9857c7f8-04a9-45b8-8b40-fab32e615187">
+
 Dopalearn® the world's first nano-learning platform offers a new method of learning for children by blending learning with entertainment. It’s a video platform that uses lessons and challenges in place of advertisements to teach foundational concepts. The training is done by periodically interrupting the video with nano-lessons in the form of popups. A built-in library allows the parent to find and assign lessons before handing the device over to the child. Lessons range from ABCs, numbers, vocabulary building, first words & sight words, to more advanced topics such as reading, writing, spelling, and math.
