@@ -1,4 +1,4 @@
-# Got kids? Meet Dopalearn® by Little Brain Boosters®
+# “Education is the most powerful weapon which you can use to change the world” – Nelson Mandela.
 
 ![dopalearn](https://github.com/user-attachments/assets/a9506457-c414-49f5-84f4-c29d8852f40b)
 
