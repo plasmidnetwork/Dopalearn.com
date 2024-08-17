@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-Turn screen time into learning time with Dopalearn®, the world's first nanolearning platform.
+Turn screen time into learning time with Dopalearn®, the world's first nanolearning platform, for children.
 </p>
 
 <p align="center">
