@@ -41,6 +41,6 @@ Try it 100% free (zero ads):
 * [on Android](https://play.google.com/store/apps/details?id=com.littlebrainboosters.dopalearn)
 * [on iOS](https://apps.apple.com/us/app/dopalearn/id1542507323)
 
-:sparkles: Features
+📚: Library
 ---------------------------
-<img width="963" alt="dopalearn_7" src="https://github.com/user-attachments/assets/8212412b-558d-4dde-a57d-23b6d1cd73a3">
+![dopalearn_nanolessons](https://github.com/user-attachments/assets/df56771d-292b-42f3-aa8f-30af419b850f)
