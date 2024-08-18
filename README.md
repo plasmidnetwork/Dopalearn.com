@@ -7,11 +7,9 @@
 
 <p align=center>
   <strong><a href="https://www.dopalearn.com">Website</a></strong>
-  | <strong><a href="https://www.youtube.com/watch?v=7F6yH6R_H_U">Got Kids? Meet Dopalearn®</a></strong>
-  | <strong><a href="https://youtube.com/shorts/WGY0082PQZo?feature=share">Speech Delayed?</a></strong>
   | <strong><a href="https://www.youtube.com/watch?v=lsjc2uDi1OI">World's First TV Ad</a></strong>
   | <strong><a href="https://www.plasmid.network">Join Plasmid Network</a></strong>
-  | <strong><a href="">Contact</a></strong>
+  | <strong><a href="">Get in Touch</a></strong>
 </p>
 
 <p align="center">
@@ -32,10 +30,14 @@
 
 Dopalearn® the world's first nano-learning platform offers a new method of learning for children by blending learning with entertainment. It’s a video platform that uses lessons and challenges in place of advertisements to teach foundational concepts. The training is done by periodically interrupting the video with nano-lessons in the form of popups. A built-in library allows the parent to find and assign lessons before handing the device over to the child. Lessons range from ABCs, numbers, vocabulary building, first words & sight words, to more advanced topics such as reading, writing, spelling, and math.
 
-A few videos for you to watch
+Dopalearn® in Action
 * A [one minute explainer video](https://youtube.com/shorts/1gcMx_IDOZY) of Dopalearn®
 * A [3 year old child learning the alphabet](https://youtube.com/shorts/pKa4rbOnMPk) with Dopalearn®
 * A [15 year old boy with level 3 autism learning English and Math](https://youtu.be/gBZUCWVDbAY) with Dopalearn®
+
+Promotional Stuff
+* [Got kids? Meet Dopalearn®](https://www.youtube.com/watch?v=7F6yH6R_H_U)
+* [Dopalearn® for Speech Delay](https://youtube.com/shorts/WGY0082PQZo)
 
 Try it 100% free (zero ads):
 * [on Android](https://play.google.com/store/apps/details?id=com.littlebrainboosters.dopalearn)
