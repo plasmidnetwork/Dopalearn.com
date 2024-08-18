@@ -79,14 +79,17 @@ In summary, dopamine is integral to learning processes by reinforcing behaviors 
   - Interactive learning
   - Progress tracking and scoring
   - Restart/Resume functionality (iOS version only)
+ ![challenges](https://github.com/user-attachments/assets/0543c747-dd66-4d2c-ae79-e2f9431a6070)
 
 📚 The Library
 ---------------------------
 There are currently over 1000 nanolessons available in Dopalearn® in English and Arabic with many more in development. [See our library here.](https://www.dopalearn.com/library)
 ![dopalearn_nanolessons](https://github.com/user-attachments/assets/df56771d-292b-42f3-aa8f-30af419b850f)
 
-🚀 The Launchpad
+🚀 The Launchpad (the heart of Dopalearn®)
 ---------------------------
+![clock_lesson](https://github.com/user-attachments/assets/7b370d72-ff38-4b47-b5e5-c44248aff354)
+
 
 ⚙️ Getting Started
 ---------------------------
