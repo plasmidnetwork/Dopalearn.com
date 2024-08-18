@@ -7,6 +7,8 @@
 
 <p align=center>
   <strong><a href="https://www.dopalearn.com">Website</a></strong>
+  | <strong><a href="https://play.google.com/store/apps/details?id=com.littlebrainboosters.dopalearn">Download on Android</a></strong>
+  | <strong><a href="https://apps.apple.com/us/app/dopalearn/id1542507323">Download on iOS</a></strong>
   | <strong><a href="https://www.youtube.com/watch?v=lsjc2uDi1OI">World's First TV Ad</a></strong>
   | <strong><a href="https://www.plasmid.network">Join Plasmid Network</a></strong>
   | <strong><a href="">Get in Touch</a></strong>
