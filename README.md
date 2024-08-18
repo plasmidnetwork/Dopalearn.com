@@ -30,7 +30,7 @@
 
 # Introduction
 
-Dopalearn® the world's first nano-learning platform offers a new method of learning for children by blending learning with entertainment. It’s a video platform that uses lessons and challenges in place of advertisements to teach foundational concepts. The training is done by periodically interrupting the video with nano-lessons in the form of popups. A built-in library allows the parent to find and assign lessons before handing the device over to the child. Lessons range from ABCs, numbers, vocabulary building, first words & sight words, to more advanced topics such as reading, writing, spelling, and math.
+Dopalearn® the world's first nano-learning platform offers a new method of learning for children by blending learning with entertainment. It’s a video platform that uses lessons and challenges in place of advertisements to teach foundational concepts. The training is done by periodically interrupting the video with nano-lessons in the form of popups. A built-in library allows the parent to find and assign lessons before handing the device over to the child. Lessons range from ABCs, numbers, vocabulary building, first words & sight words, to more advanced topics such as reading, writing, spelling, and math. To put it simply, we are combining an LMS (learning management system) with a video platform to deliver both passive and interactive learning experiences.
 
 Dopalearn® in Action:
 * [A 3 year old child learning the english alphabet](https://youtube.com/shorts/pKa4rbOnMPk) with Dopalearn®
@@ -45,7 +45,7 @@ Try it Free (zero ads):
 * [on Android](https://play.google.com/store/apps/details?id=com.littlebrainboosters.dopalearn)
 * [on iOS](https://apps.apple.com/us/app/dopalearn/id1542507323)
 
-✨ The Science Behind Dopalearn®
+📓 The Science Behind Dopalearn®
 ---------------------------
 Dopalearn® leverages the power of dopamine, the neurotransmitter behind motivation that also plays a crucial role in learning, particularly in reinforcing behaviors and facilitating the adaptation to new experiences. It is a neurotransmitter that acts as a chemical messenger in the brain, and its involvement in learning can be understood through several key mechanisms:
 
@@ -68,9 +68,13 @@ Dopalearn® leverages the power of dopamine, the neurotransmitter behind motivat
 
 In summary, dopamine is integral to learning processes by reinforcing behaviors through reward prediction, motivating goal-directed actions, enabling cognitive flexibility, enhancing attention, and aiding in memory consolidation. Its dynamic role in the brain's reward system makes it a key player in how we learn from and adapt to our experiences.
 
-📓 Getting Started
+✨ Features Overview
 ---------------------------
+Dopalearn® is currently available in English with a few Arabic lessons in the preview category. 
 
 📚 Library
 ---------------------------
 ![dopalearn_nanolessons](https://github.com/user-attachments/assets/df56771d-292b-42f3-aa8f-30af419b850f)
+
+⚙️ Getting Started
+---------------------------
