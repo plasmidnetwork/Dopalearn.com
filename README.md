@@ -68,7 +68,7 @@ Dopalearn® leverages the power of dopamine, the neurotransmitter behind motivat
 
 In summary, dopamine is integral to learning processes by reinforcing behaviors through reward prediction, motivating goal-directed actions, enabling cognitive flexibility, enhancing attention, and aiding in memory consolidation. Its dynamic role in the brain's reward system makes it a key player in how we learn from and adapt to our experiences.
 
-📓 Guide
+📓 Getting Started
 ---------------------------
 
 📚 Library
