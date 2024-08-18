@@ -66,7 +66,7 @@ Dopalearn® leverages the power of dopamine, the neurotransmitter behind motivat
 * Memory Consolidation:
    - There is evidence that dopamine also plays a role in the consolidation of memories, particularly those related to rewarding experiences. By strengthening the neural connections associated with these memories, dopamine helps ensure that important information is retained and can be accessed in the future.
 
-In summary, dopamine is integral to learning processes by reinforcing behaviors through reward prediction, motivating goal-directed actions, enabling cognitive flexibility, enhancing attention, and aiding in memory consolidation. Its dynamic role in the brain's reward system makes it a key player behind the learning process in Dopalearn®.
+In summary, dopamine is integral to learning processes by reinforcing behaviors through reward prediction, motivating goal-directed actions, enabling cognitive flexibility, enhancing attention, and aiding in memory consolidation. Its dynamic role in the brain's reward system makes it a key player behind the unique learning process in Dopalearn®.
 
 ✨ Features Overview
 ---------------------------
