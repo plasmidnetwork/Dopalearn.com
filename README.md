@@ -82,6 +82,7 @@ In summary, dopamine is integral to learning processes by reinforcing behaviors 
 
 📚 The Library
 ---------------------------
+There are currently over 1000 nanolessons available in Dopalearn® in English and Arabic with many more in development. A typical lesson ranges between 3 to 15 seconds, depending on the lesson type. 
 ![dopalearn_nanolessons](https://github.com/user-attachments/assets/df56771d-292b-42f3-aa8f-30af419b850f)
 
 🚀 The Launchpad
