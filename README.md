@@ -70,7 +70,15 @@ In summary, dopamine is integral to learning processes by reinforcing behaviors 
 
 ✨ Features Overview
 ---------------------------
-Dopalearn® is currently available in English with a few Arabic lessons in the preview category. 
+* Dopalearn® Free
+  - Passive learning
+  - Unlimited user profiles
+  - Full access to library (1000+ nanolessons)
+* Dopalearn® Pro
+  - Including the above
+  - Interactive learning
+  - Progress tracking and scoring
+  - Restart/Resume functionality (iOS onlh)
 
 📚 The Library
 ---------------------------
