@@ -78,7 +78,7 @@ In summary, dopamine is integral to learning processes by reinforcing behaviors 
   - Including the above
   - Interactive learning
   - Progress tracking and scoring
-  - Restart/Resume functionality (iOS onlh)
+  - Restart/Resume functionality (iOS version only)
 
 📚 The Library
 ---------------------------
