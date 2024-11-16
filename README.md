@@ -37,7 +37,7 @@ Dopalearn® in Action:
 * [A 15 year old boy with level 3 autism learning english and math with Dopalearn®](https://youtu.be/gBZUCWVDbAY)
 
 Promotional Stuff:
-* [Dopalearn® explained under a minute](https://youtube.com/shorts/1gcMx_IDOZY)
+* [Dopalearn® explained under a minute](https://youtu.be/-zaMJAFDwyI)
 * [Got kids? Meet Dopalearn®](https://www.youtube.com/watch?v=7F6yH6R_H_U)
 * [Dopalearn® for speech delay](https://youtube.com/shorts/WGY0082PQZo)
 
